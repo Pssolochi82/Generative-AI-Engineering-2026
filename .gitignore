@@ -221,3 +221,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ==========================================
+# Engenharia de IA Generativa - Segurança
+# ==========================================
+
+# Variáveis de ambiente
+.env.*
+!.env.example
+
+# Credenciais e certificados privados
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Bases de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Modelos e artefactos locais
+models/
+checkpoints/
