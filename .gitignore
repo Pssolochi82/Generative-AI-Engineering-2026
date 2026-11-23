@@ -158,6 +158,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv_backup/
+.env.*
+!.env.example
 
 # Conda environments
 conda-meta/
