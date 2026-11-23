@@ -1,5 +1,5 @@
 # Generative-AI-Engineering-2026
-# Generative AI Engineering 2026
+
 
 ### Artificial Intelligence | Python | LLMs | AI Agents | RAG
 
